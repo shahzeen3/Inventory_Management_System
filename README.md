@@ -82,6 +82,3 @@ A simple console-based Inventory Management System built in Java, demonstrating 
 - Build a GUI or web-based front end
 - Add unit tests
 
-## Author
-
-Zee — [GitHub Profile](https://github.com/your-username)
